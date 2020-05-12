@@ -82,7 +82,7 @@ namespace LitAssetBundle
             }
         }
 
-        [MenuItem("Assets/LitAssetBundle/Mark As Package(Name)")]
+        [MenuItem("Assets/LitAssetBundle/Mark As Package(Name) - Folder Only")]
         private static void MarkAsPackage_Name()
         {
             var assets = Selection.GetFiltered<Object>(SelectionMode.DeepAssets);
@@ -105,7 +105,7 @@ namespace LitAssetBundle
             }
         }
         
-        [MenuItem("Assets/LitAssetBundle/Mark As Package(Path)")]
+        [MenuItem("Assets/LitAssetBundle/Mark As Package(Path) - Folder Only")]
         private static void MarkAsPackage_Path()
         {
             var assets = Selection.GetFiltered<Object>(SelectionMode.DeepAssets);
