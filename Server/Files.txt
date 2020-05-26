@@ -1,0 +1,5 @@
+v1.0.0
+AssetBundle:63e6fab31d6093c480b52a334f9f8f6e
+cube1:c21dbda0ae49e3b4d07f48c4cbf1afa9
+cube2:6679b8fad4e65afd2c175c278a31d8a8
+assets\demo\folder1\cube3:0137a8d69568188b9180ea6d62e6eab3
