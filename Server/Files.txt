@@ -1,5 +1,6 @@
 v1.0.0
-AssetBundle:63e6fab31d6093c480b52a334f9f8f6e
-cube1:c21dbda0ae49e3b4d07f48c4cbf1afa9
-cube2:6679b8fad4e65afd2c175c278a31d8a8
-assets\demo\folder1\cube3:0137a8d69568188b9180ea6d62e6eab3
+AssetBundle:207ed306b190856ba997e7b34588a50d
+cube1:b6583ec1b64b8a94ce0e2928033ed2e2
+cube2:0d2b678434733fa9966e73e5a5eba642
+luascripts:61536e6e310acfd780a3e77ab2683220
+assets\demo\loadfromlocal\folder1\cube3:352a8d8a74db1b3c9c5ef1e6985e1d3c
