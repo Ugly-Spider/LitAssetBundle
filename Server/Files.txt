@@ -1,6 +1,6 @@
 v1.0.0
-AssetBundle:207ed306b190856ba997e7b34588a50d
+AssetBundle:498a216f2434099fdca8d9a89126126d
 cube1:b6583ec1b64b8a94ce0e2928033ed2e2
 cube2:0d2b678434733fa9966e73e5a5eba642
-luascripts:61536e6e310acfd780a3e77ab2683220
+luascripts:928dd393f534009f0b0ccbd72b61c990
 assets\demo\loadfromlocal\folder1\cube3:352a8d8a74db1b3c9c5ef1e6985e1d3c
